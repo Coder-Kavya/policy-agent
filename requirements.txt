@@ -1,0 +1,6 @@
+openai
+chromadb
+sentence-transformers
+fastapi
+uvicorn[standard]
+pydantic

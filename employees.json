@@ -1,0 +1,5 @@
+{
+  "E101": {"name": "Yaksh", "team": "Platform", "manager": "Self Employed", "leave_balance": 12},
+  "E102": {"name": "Kavya", "team": "Data", "manager": "Chetan", "leave_balance": 7},
+  "E103": {"name": "Yukta", "team": "Security", "manager": "Chetan", "leave_balance": 15}
+}
